@@ -16,3 +16,4 @@ link to curriculum
 [[Modul 7 - Pembuatan Suara dengan AI]]
 
 [[Playbook Prompting AI]]
+[[Slide Pelatihan/README]]
