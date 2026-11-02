@@ -15,3 +15,4 @@ link to curriculum
 [[Modul 6 - Pembuatan Video dengan AI]]
 [[Modul 7 - Pembuatan Suara dengan AI]]
 
+[[Playbook Prompting AI]]
